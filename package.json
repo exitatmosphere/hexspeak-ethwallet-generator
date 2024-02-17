@@ -1,0 +1,22 @@
+{
+  "name": "hexspeak-ethwallet-generator",
+  "version": "1.0.0",
+  "description": "Generates ethereum wallet with hexspeak address",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node ./src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "ethers": "^6.11.1",
+    "znv": "^0.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  }
+}
