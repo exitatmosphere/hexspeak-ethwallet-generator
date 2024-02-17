@@ -9,12 +9,12 @@ const base = 16;
 const prefixes = {
   3: ["ace", "add", "bad", "bed", "bee", "b0b", "b00", "dad", "fee", "f0e"],
   4: [
-    "4bid",
+    "4b1d",
     "babe",
     "bead",
     "beef",
     "b00b",
-    "b1oc",
+    "b10c",
     "cafe",
     "c0de",
     "dead",
